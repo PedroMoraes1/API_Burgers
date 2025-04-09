@@ -1,33 +1,52 @@
+<<<<<<< HEAD
 🍔 Bob's Burgers API Viewer
+=======
+# 📝 Sprint 01 - Projeto Bob's Burgers API
+>>>>>>> 6865a4a (Readme atualizado)
 
-Um projeto educacional criado para praticar o consumo de APIs REST, utilizando dados da série animada Bob's Burgers. A aplicação exibe uma galeria de personagens com suas principais informações, tudo de forma dinâmica.
+## 📅 Período
+De: 04/04/2025  
+Até: 09/04/2025
+  
+---
 
-✨ Funcionalidades
+## ✅ Objetivos da Sprint
 
-• Consumo de API pública com dados da série
+- [x] Consumir API de personagens de Bob's Burgers
+- [x] Criar componente em React para listar personagens
+- [x] Exibir imagem, nome, ocupação e dublador
+- [x] Implementar barra de busca por nome
+- [x] Adicionar filtro por letra inicial
 
-• Listagem dos personagens com:
+---
 
-• Imagem
+## 🚧 Desafios Enfrentados
 
-• Nome
+- Dificuldades com `git push` devido a conflitos com o repositório remoto
+- Aprendizado do funcionamento do `rebase`, `merge` e comandos do Vim
+- Ajustes no tratamento de imagens quebradas na API
 
-• Ocupação
+---
 
-• Dublador
+## 📂 Arquivos Criados/Modificados
 
-🎯 Objetivo
+- `src/components/PersonagensBob.js`
+- `src/components/PersonagensBob.css`
+- `src/services/api.js`
+- `README.md`
 
-Este projeto foi desenvolvido como exercício de aprendizagem para:
+---
 
-  • Aprender a consumir APIs REST com JavaScript
+## 📌 Próximos Passos
 
-  • Praticar manipulação de dados em JSON
+- Criar página individual de detalhes do personagem
+- Adicionar loading e tratamento de erro
 
-  • Trabalhar com renderização dinâmica no front-end
+---
 
-  • Montar uma estrutura visual simples e funcional
+## 🧠 Aprendizados
 
+<<<<<<< HEAD
 🛠️ Tecnologias Utilizadas
 
   • HTML5
@@ -38,3 +57,9 @@ Este projeto foi desenvolvido como exercício de aprendizagem para:
 
   • API pública de Bob's Burgers
 
+=======
+- Uso de `axios` para consumir APIs
+- Manipulação de estados no React (`useState`, `useEffect`)
+- Resolução de conflitos com `git`
+- Estruturação de projeto em componentes
+>>>>>>> 6865a4a (Readme atualizado)
