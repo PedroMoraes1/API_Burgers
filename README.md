@@ -4,17 +4,17 @@ Um projeto educacional criado para praticar o consumo de APIs REST, utilizando d
 
 ✨ Funcionalidades
 
-✅ Consumo de API pública com dados da série
+• Consumo de API pública com dados da série
 
-✅ Listagem dos personagens com:
+• Listagem dos personagens com:
 
-🖼️ Imagem
+• Imagem
 
-📛 Nome
+• Nome
 
-👔 Ocupação
+• Ocupação
 
-🎙️ Dublador
+• Dublador
 
 🎯 Objetivo
 
