@@ -5,6 +5,7 @@
 Um projeto educacional criado para praticar o consumo de APIs REST, utilizando dados da série animada Bob's Burgers. A aplicação exibe uma galeria de personagens com suas principais informações, tudo de forma dinâmica.
 
 ✨ Funcionalidades
+
 ✅ Consumo de API pública com dados da série
 
 ✅ Listagem dos personagens com:
