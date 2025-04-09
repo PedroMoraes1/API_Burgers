@@ -1,25 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+// Importa o componente principal PersonagensBob
+// (O componente deve estar localizado em ./components/PersonagensBob.js)
+import PersonagensBob from './components/PersonagensBob';
 
+// Componente raiz da aplicação React
 function App() {
   return (
+    // Container principal com a classe 'App' (usada para estilização global)
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* Renderiza o componente PersonagensBob como conteúdo principal */}
+      <PersonagensBob />
     </div>
   );
 }
 
+// Exporta o componente App como padrão
+// (Este será o componente renderizado no ponto de entrada da aplicação)
 export default App;
