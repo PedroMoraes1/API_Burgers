@@ -1,7 +1,5 @@
 🍔 Bob's Burgers API Viewer
 
-
-
 Um projeto educacional criado para praticar o consumo de APIs REST, utilizando dados da série animada Bob's Burgers. A aplicação exibe uma galeria de personagens com suas principais informações, tudo de forma dinâmica.
 
 ✨ Funcionalidades
@@ -19,23 +17,25 @@ Um projeto educacional criado para praticar o consumo de APIs REST, utilizando d
 🎙️ Dublador
 
 🎯 Objetivo
+
 Este projeto foi desenvolvido como exercício de aprendizagem para:
 
-Aprender a consumir APIs REST com JavaScript
+  • Aprender a consumir APIs REST com JavaScript
 
-Praticar manipulação de dados em JSON
+  • Praticar manipulação de dados em JSON
 
-Trabalhar com renderização dinâmica no front-end
+  • Trabalhar com renderização dinâmica no front-end
 
-Montar uma estrutura visual simples e funcional
+  • Montar uma estrutura visual simples e funcional
 
 🛠️ Tecnologias Utilizadas
-HTML5
 
-CSS3
+  • HTML5
 
-JavaScript (vanilla ou framework, se usou algum pode adicionar aqui)
+  • CSS3
 
-API pública de Bob's Burgers
+  • JavaScript (vanilla ou framework, se usou algum pode adicionar aqui)
+
+  • API pública de Bob's Burgers
 
 🖼️ Preview
