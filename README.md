@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-🍔 Bob's Burgers API Viewer
-=======
 # 📝 Sprint 01 - Projeto Bob's Burgers API
->>>>>>> 6865a4a (Readme atualizado)
 
 ## 📅 Período
 De: 04/04/2025  
@@ -46,9 +42,6 @@ Até: 09/04/2025
 
 ## 🧠 Aprendizados
 
-<<<<<<< HEAD
-🛠️ Tecnologias Utilizadas
-
   • HTML5
 
   • CSS3
@@ -57,9 +50,8 @@ Até: 09/04/2025
 
   • API pública de Bob's Burgers
 
-=======
 - Uso de `axios` para consumir APIs
 - Manipulação de estados no React (`useState`, `useEffect`)
 - Resolução de conflitos com `git`
 - Estruturação de projeto em componentes
->>>>>>> 6865a4a (Readme atualizado)
+
